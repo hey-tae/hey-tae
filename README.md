@@ -23,4 +23,5 @@ When I’m not learning about the jiggy world of Javascript. You can find me at 
 
 🔭 I’m currently working with Resilient Coders, collaborating with a team of fellow SWE's to build Full Stack aaplications
 
-📫 How to reach me: Send me an email @ taewilsondev@gmail.com | Follow me on Twitter @_heytae_ | Connect with me on Linkedin @ https://www.linkedin.com/in/taewilson/
+📫 Lets Work Together 
+Send me an email @ taewilsondev@gmail.com | Follow me on Twitter @_heytae_ | Connect with me on Linkedin @ https://www.linkedin.com/in/taewilson/
