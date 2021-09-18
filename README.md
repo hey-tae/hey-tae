@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 
 Hey I'm Tae (she/they) I am a Software Engineer based in Boston passionate about meeting user experience needs as well as for creating intuitive solutions for users, both in terms of software & design. With my previous experience in customer experience and formal training in Visual Media Arts, I love to bring my creative skills to problem-solving when it comes to building software. I'm passionate about making tech more approachable, creating technology to elevate people, and building community. 
 
-When I’m not learning about the jiggy world of Javascript. You can find me at any local taqueria, or trying to convince my daughter to start a band with me.
+When I’m not learning about the jiggy world of Javascript. You can find me at any local taqueria, trying to convince my daughter to start a band with me, or learning a new social media dance.
+
+🔭 I’m currently working with Resilient Coders, collaborating with a team of fellow SWE's to build Full Stack aaplications
+
+📫 How to reach me: Send me an email @ taewilsondev@gmail.com | Follow me on Twitter @_heytae_ | Connect with me on Linkedin @ https://www.linkedin.com/in/taewilson/
