@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Copy of Tae Logos (1)](
+![NOTION COVER (1)](https://user-images.githubusercontent.com/67717411/149052476-4c6b464d-d152-4a71-84b8-c74b9feaba48.gif)
 
-![NOTION COVER](https://user-images.githubusercontent.com/67717411/149052272-486a3794-7c58-4e25-9272-fbbaf0241f83.gif)
-
-
-)
 
 I am a Software Engineer based in Boston passionate about meeting user experience needs as well as for creating intuitive solutions for users, both in terms of software & design. With my previous experience in customer experience and formal training in Visual Media Arts, I love to bring my creative skills to problem-solving when it comes to building software. I'm passionate about making tech more approachable, creating technology to elevate people, and building community. 
 
