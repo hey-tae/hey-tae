@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![NOTION COVER (2)](https://user-images.githubusercontent.com/67717411/149069105-55a41893-b839-4b8f-88dc-32318ef8f8ff.gif)
+![NOTION COVER (3)](https://user-images.githubusercontent.com/67717411/149069160-c457509a-2899-46f0-8b47-c60ee4360815.gif)
+
 
 
 
