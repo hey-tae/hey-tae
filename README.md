@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-I am a Software Engineer based in Boston passionate about meeting user experience needs as well as for creating intuitive solutions for users, both in terms of software & design. With my previous experience in customer experience and formal training in Visual Media Arts, I love to bring my creative skills to problem-solving when it comes to building software. I'm passionate about making tech more approachable, creating technology to elevate people, and building community. 
+I am a Software Engineer based in Boston passionate about meeting user experience needs as well as creating intuitive solutions for users, both in terms of software & design. With my previous experience in customer experience and formal training in Visual Media Arts, I love to bring my creative skills to problem-solving when it comes to building software. I'm passionate about making tech more approachable, creating technology to elevate people, and building community. 
 
 When I’m not learning about the jiggy world of Javascript. You can find me at any local taqueria, trying to convince my daughter to start a band with me, or learning a new social media dance.
 
