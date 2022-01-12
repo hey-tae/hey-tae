@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ![Copy of Tae Logos (1)](
 
-https://user-images.githubusercontent.com/67717411/149052232-bb94f464-c132-4206-bb15-eff86b98771e.mp4
+![NOTION COVER](https://user-images.githubusercontent.com/67717411/149052272-486a3794-7c58-4e25-9272-fbbaf0241f83.gif)
+
 
 )
 
